@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Genius Lyrics",
+    "description": "Adds the function of seeing text from Genius.",
+    "preview": "genius-lyrics.png",
+    "main": "genius-lyrics.js",
+    "readme": "README.md",
+    "authors": [
+        { "name": "W1KT04", "url": "https://github.com/W1KT04" }
+    ],
+    "tags": ["lyrics"]
+  }
+]
