@@ -13,4 +13,4 @@ A lightweight Spicetify extension that fetches and displays song lyrics from [Ge
 - 🎯 Works seamlessly with Spicetify's Topbar
 
 ---
-https://i.imgur.com/CEoVtdo.png
+[https://i.imgur.com/CEoVtdo.png](https://i.imgur.com/CEoVtdo.png)
