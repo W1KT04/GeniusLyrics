@@ -19,6 +19,8 @@ A lightweight Spicetify extension that fetches and displays song lyrics from [Ge
 ### Loading Modal  
 ![Loading Modal](images/LoadingModal.png)
 
+---
+
 ### Lyrics Modal  
 ![Lyrics Modal](images/LyricsModal.png)
 
@@ -33,4 +35,4 @@ A lightweight Spicetify extension that fetches and displays song lyrics from [Ge
    Typically located at:
 
    ```bash
-   ~/.config/spicetify/Extensions
+   ~%appdata%\Local\spicetify\Extensions
