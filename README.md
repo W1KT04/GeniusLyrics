@@ -1,3 +1,4 @@
+![Icon](genius-lyrics.png)
 # 🎵 Genius Lyrics for Spicetify
 
 A lightweight Spicetify extension that fetches and displays song lyrics from [Genius](https://genius.com) in a clean popup modal. Supports lyrics with section annotations like `[Chorus]`, `[Verse 1]`, etc.
