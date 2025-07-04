@@ -13,14 +13,3 @@ A lightweight Spicetify extension that fetches and displays song lyrics from [Ge
 - 🎯 Works seamlessly with Spicetify's Topbar
 
 ---
-
-## 📦 Installation
-
-1. **Download the script**  
-   Save the file as `genius-lyrics.js`.
-
-2. **Move it to your Spicetify Extensions folder**  
-   Typically located at:
-
-   ```bash
-   ~/.config/spicetify/Extensions
