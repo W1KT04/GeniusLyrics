@@ -36,4 +36,4 @@ A lightweight Spicetify extension that fetches and displays song lyrics from [Ge
    Typically located at:
 
    ```bash
-   ~%appdata%\Local\spicetify\Extensions
+   %appdata%\Local\spicetify\Extensions
