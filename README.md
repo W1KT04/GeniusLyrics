@@ -17,10 +17,10 @@ A lightweight Spicetify extension that fetches and displays song lyrics from [Ge
 ## 🖼 Preview
 
 ### Loading Modal  
-![Loading Modal](genius-lyrics.png)
+![Loading Modal](images/LoadingModal.png)
 
 ### Lyrics Modal  
-![Lyrics Modal](YOUR_IMAGE_URL_HERE/lyrics-modal.png)
+![Lyrics Modal](images/LyricsModal.png)
 
 ---
 
